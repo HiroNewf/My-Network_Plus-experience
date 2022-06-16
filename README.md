@@ -1,4 +1,4 @@
-# My-Network-experience
+# My-Network_Plus-experience
 I took and passed the N10-007 Network+ exam by Comptia on the 18th of May 2022 with a score of 763/900 and on this page I will write about my experiences, resources used, and what I recommend other people do that are taking the Network+ exam.
 ## Resources used and recommended
 I used many resources not on this list, but they were not good so I am not going to put them here
